@@ -1,0 +1,12 @@
+body{
+    background: #ccc;
+    min-height: 100px;
+    margin-bottom: 50px;
+    padding-bottom: 50px;
+    clear: both;
+}
+
+.greeting{
+    color:  #4CAF50;
+    text-align: center;
+}

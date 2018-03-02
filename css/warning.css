@@ -1,0 +1,16 @@
+body{
+    background: #ccc;
+    min-height: 100px;
+    margin-bottom: 50px;
+    clear: both;
+}
+
+.warning{
+    color: red;
+    text-align: center;
+}
+
+.notification{
+    color: #4CAF50;
+    text-align: center;
+}
